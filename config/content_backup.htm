@@ -12,7 +12,8 @@
 <p><span><span><span><span></span></span></span></span></p>
 <p><span style="color: #ff0000;"> <strong>Week3</strong></span></p>
 <p><span style="background-color: #ffffff; color: #000000;"><strong><a href="http://mde.tw/cad2019/content/Solvespace.html" style="background-color: #ffffff; color: #000000;">Solvespac</a><a href="http://mde.tw/cad2019/content/Solvespace.html" style="background-color: #ffffff; color: #000000;">e</a>編譯</strong></span></p>
-<p><span style="color: #000000;">1. sh.exe 改名為 sh_rename_for_solvespace.exe。<br/>2.git version 查驗 git 版本<br/>3 git clone --recurse-submodules https://github.com/solvespace/solvespace.git solvespace<br/>4.編譯Y:\tmp\solvespace\extlib\angle\CMakeLists.txt comment out line 713 and 714<br/>endif()(在713跟714前面加#)                 <br/>5.手動編輯 libpng.dll.a 改名 libpng_static.a, 並放到編譯系統的 lib 目錄中 。<br/>6.cd solvespace-&gt;cd extlib-&gt;cd libpng-&gt;mkdir build-&gt;cd build-&gt;cmake .. -G "MinGW Makefiles" -DCMAKE_BUILD_TYPE=Release-&gt;mingw32-make<br/>7.最後回到solvespace 原始碼目錄, 建立 build 目錄後進入 build 目錄, 輸入cmake .. -G "MinGW Makefiles" -DCMAKE_BUILD_TYPE=Release-&gt;mingw32-make</span></p>
+<p><span style="color: #000000;">1. sh.exe 改名為 sh_rename_for_solvespace.exe。<br/>2.git version 查驗 git 版本<br/>3 git clone --recurse-submodules https://github.com/solvespace/solvespace.git solvespace<br/>4.編譯Y:\tmp\solvespace\extlib\angle\CMakeLists.txt comment out line 713 and 714<br/>endif()(在713跟714前面加#)                 <br/>5.手動編輯 libpng.dll.a 改名 libpng_static.a, 並放到編譯系統的 lib 目錄中 </span></p>
+<p><span style="color: #000000;"><span>6.cd solvespace-&gt;cd extlib-&gt;cd libpng-&gt;mkdir build-&gt;cd build-&gt;cmake .. -G "MinGW Makefiles" -DCMAKE_BUILD_TYPE=Release-&gt;mingw32-make</span><br/><span>7.最後回到solvespace 原始碼目錄, 建立 build 目錄後進入 build 目錄, 輸入cmake .. -G "MinGW Makefiles" -DCMAKE_BUILD_TYPE=Release-&gt;mingw32-make</span></span></p>
 <p><span style="color: #000080;"><strong>個人操作影片</strong></span></p>
 <p><span><span><span><span><span><span><iframe allowfullscreen="allowfullscreen" height="314" src="//www.youtube.com/embed/vf63IGOp6u0" width="560"></iframe></span></span></span></span></span></span></p>
 <p><span style="color: #ff0000;"><strong>Week4</strong></span></p>
@@ -155,12 +156,12 @@
 <p><span style="color: #ff0000;">mkdir </span><span>名稱 建立目錄</span></p>
 <h2>Phthon語法</h2>
 <ul style="list-style-type: square;">
-<li>"#" 符號後是註解 ( comment ) ，可以在一列的開頭或中間加入</li>
-<li>reserved word or built-in function( 變數取名請避開) and，exec，not，as，finally，or，assert，for，pass，except，break，from，print，class，global，raise，continue，if，return，def，import，try，del，in，while，elif，is，with，else，lambda，yield</li>
-<li>縮排視為不同的block(在IF判斷是或迴圈的段落中使用)，縮排可以用tab或是數個空格( ≧ 1 )，空格的數量不同，是為不同的block ( bug 容易因為這一點而產生 )</li>
-<li>python 的每個變數視為一個 object</li>
-<li>python variables 不需要事先宣告變數，直接用"=" assign value ( 賦值 ) 即可，例如： x = 3.14 → 實數變數</li>
-<li>變數類型 ( data type ) 根據被賦予的值決定 ( 之後若是被分配不同類型的數值，該變數的類型會直接改變 ) 例如：x = 'text' → 字串變數</li>
+<li><span style="color: #000000;">"#" 符號後是註解 ( comment ) ，可以在一列的開頭或中間加入</span></li>
+<li><span style="color: #000000;">reserved word or built-in function( 變數取名請避開) and，exec，not，as，finally，or，assert，for，pass，except，break，from，print，class，global，raise，continue，if，return，def，import，try，del，in，while，elif，is，with，else，lambda，yield</span></li>
+<li><span style="color: #000000;">縮排視為不同的block(在IF判斷是或迴圈的段落中使用)，縮排可以用tab或是數個空格( ≧ 1 )，空格的數量不同，是為不同的block ( bug 容易因為這一點而產生 )</span></li>
+<li><span style="color: #000000;">python 的每個變數視為一個 object</span></li>
+<li><span style="color: #000000;">python variables 不需要事先宣告變數，直接用"=" assign value ( 賦值 ) 即可，例如： x = 3.14 → 實數變數</span></li>
+<li><span style="color: #000000;">變數類型 ( data type ) 根據被賦予的值決定 ( 之後若是被分配不同類型的數值，該變數的類型會直接改變 ) 例如：x = 'text' → 字串變數</span></li>
 </ul>
 <div class="article__content">
 <h2>Solvespace常用快捷鍵</h2>
