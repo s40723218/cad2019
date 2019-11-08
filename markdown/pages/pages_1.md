@@ -2,7 +2,7 @@ Title: About
 
 ## 40723218內容管理網誌
 
-個人倉儲: <a href="https://s40723218.github.io/cad2019/content/index.html">https://s40723218.github.io/cad2019/content/index.html</a>
+個人倉儲: [https://s40723218.github.io/cad2019/content/index.html](https://s40723218.github.io/cad2019/content/index.html)
 
 個人投影片: <a href="https://s40723218.github.io/cad2019/reveal/index.html#/">https://s40723218.github.io/cad2019/reveal/index.html#/</a>
 
