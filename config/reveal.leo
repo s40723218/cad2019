@@ -77,7 +77,9 @@ W3:Solvespace編譯
 
 W4:網站更新以及拍攝影片
 
-W5:solvespace繪製練習</t>
+W5:solvespace繪製練習
+
+[操作影片](https://www.youtube.com/channel/UCHvDdWtq_xMJC-yMQopDUyg/videos?view_as=subscriber)</t>
 <t tx="leo.20180902120523.13">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -101,7 +103,8 @@ W5:solvespace繪製練習</t>
 2.網際V-rep模型控制
 
 3.新增啟動予停止按鈕
-</t>
+
+[操作影片](https://www.youtube.com/channel/UCHvDdWtq_xMJC-yMQopDUyg/videos?view_as=subscriber)</t>
 <t tx="leo.20180902120523.16">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -135,7 +138,10 @@ W5:solvespace繪製練習</t>
 1.啟用CMSiMDE中的網誌系統
 
 2.導入Webots
-</t>
+
+3.ssh對Github連線
+
+[操作影片](https://www.youtube.com/channel/UCHvDdWtq_xMJC-yMQopDUyg/videos?view_as=subscriber)</t>
 <t tx="leo.20180902120523.2"></t>
 <t tx="leo.20180902120523.3">@language xml
 @tabwidth -4
