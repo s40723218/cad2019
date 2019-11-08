@@ -1,8 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>CMSimfly 網際內容管理</title><link href="https://chiamingyen.github.io/cmsimfly/blog/" rel="alternate"></link><link href="https://chiamingyen.github.io/cmsimfly/blog/feeds/all.atom.xml" rel="self"></link><id>https://chiamingyen.github.io/cmsimfly/blog/</id><updated>2018-09-10T11:00:00+08:00</updated><entry><title>2019 cad2019</title><link href="https://chiamingyen.github.io/cmsimfly/blog/2018-Fall-32-bit-Windows.html" rel="alternate"></link><published>2018-09-10T11:00:00+08:00</published><updated>2018-09-10T11:00:00+08:00</updated><author><name>yen</name></author><id>tag:chiamingyen.github.io,2018-09-10:/cmsimfly/blog/2018-Fall-32-bit-Windows.html</id><summary type="html">&lt;p&gt;期中個人報告影片&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>CMSimfly 網際內容管理</title><link href="https://chiamingyen.github.io/cmsimfly/blog/" rel="alternate"></link><link href="https://chiamingyen.github.io/cmsimfly/blog/feeds/all.atom.xml" rel="self"></link><id>https://chiamingyen.github.io/cmsimfly/blog/</id><updated>2019-11-08T00:00:00+08:00</updated><entry><title>40723218 Cad2019課程</title><link href="https://chiamingyen.github.io/cmsimfly/blog/2018-Fall-32-bit-Windows.html" rel="alternate"></link><published>2019-11-08T00:00:00+08:00</published><updated>2019-11-08T00:00:00+08:00</updated><author><name>林志豪</name></author><id>tag:chiamingyen.github.io,2019-11-08:/cmsimfly/blog/2018-Fall-32-bit-Windows.html</id><summary type="html">&lt;h2&gt;期中個人報告影片&lt;/h2&gt;
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/ojYWVM5t0F0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 
-&lt;hr&gt;</summary><content type="html">&lt;p&gt;期中個人報告影片&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1&gt;期中報告心得:&lt;/h1&gt;
+&lt;p&gt;這學期的Week2到Week9我可以說是獲益良多，剛開始因為不熟悉所以前面幾周的進度算是沒有趕上，到後面利用課餘時間去學習才發現其實也沒有想像中的難，也學到到多新東西像是webots、Solvespace、v-rep，所以希望能夠藉由這個課程學習更多技能。&lt;/p&gt;
+&lt;p&gt;Week2:建立個人倉儲cad2019及編輯網站&lt;/p&gt;
+&lt;p&gt;Week3:Solvespace編譯&lt;/p&gt;
+&lt;p&gt;Week4:網站更新以及拍攝操作影片&lt;/p&gt;
+&lt;p&gt;Week5:solvespace繪製練習&lt;/p&gt;
+&lt;p&gt;Week6:任務一 繪製兩輪自走車  任務二 網際V-rep模型控制 任務三 新增啟動予停止按鈕&lt;/p&gt;
+&lt;p&gt;Week7:任務一 Solvespace 編譯 任務二 參數繪圖驗證&lt;/p&gt;
+&lt;p&gt;Week8:任務一 啟用CMSiMDE中的網誌系統 任務二 導入Webots 任務三 用ssh對github連線&lt;/p&gt;</summary><content type="html">&lt;h2&gt;期中個人報告影片&lt;/h2&gt;
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/ojYWVM5t0F0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 
-&lt;hr&gt;</content><category term="2018FallCP"></category></entry></feed>
+&lt;hr&gt;
+&lt;h1&gt;期中報告心得:&lt;/h1&gt;
+&lt;p&gt;這學期的Week2到Week9我可以說是獲益良多，剛開始因為不熟悉所以前面幾周的進度算是沒有趕上，到後面利用課餘時間去學習才發現其實也沒有想像中的難，也學到到多新東西像是webots、Solvespace、v-rep，所以希望能夠藉由這個課程學習更多技能。&lt;/p&gt;
+&lt;p&gt;Week2:建立個人倉儲cad2019及編輯網站&lt;/p&gt;
+&lt;p&gt;Week3:Solvespace編譯&lt;/p&gt;
+&lt;p&gt;Week4:網站更新以及拍攝操作影片&lt;/p&gt;
+&lt;p&gt;Week5:solvespace繪製練習&lt;/p&gt;
+&lt;p&gt;Week6:任務一 繪製兩輪自走車  任務二 網際V-rep模型控制 任務三 新增啟動予停止按鈕&lt;/p&gt;
+&lt;p&gt;Week7:任務一 Solvespace 編譯 任務二 參數繪圖驗證&lt;/p&gt;
+&lt;p&gt;Week8:任務一 啟用CMSiMDE中的網誌系統 任務二 導入Webots 任務三 用ssh對github連線&lt;/p&gt;</content><category term="2019_FallCP"></category></entry></feed>
