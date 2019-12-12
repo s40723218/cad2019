@@ -18,8 +18,8 @@
 <v t="leo.20180902120523.6"><vh>body</vh>
 <v t="leo.20180902120523.7"><vh>reveal div</vh>
 <v t="leo.20180902120523.8"><vh>slides div</vh>
-<v t="leo.20180902120523.9"><vh>封面投影片</vh>
-<v t="leo.20180902120523.10"><vh>封面投影片內容</vh></v>
+<v t="leo.20191213034648.1"><vh>封面投影片</vh>
+<v t="leo.20191213034648.2"><vh>封面投影片內容</vh></v>
 </v>
 <v t="leo.20180902120523.11"><vh>快捷鍵</vh>
 <v t="leo.20180902120523.12"><vh>投影片快捷鍵</vh></v>
@@ -45,21 +45,6 @@
 </vnodes>
 <tnodes>
 <t tx="leo.20180902120523.1"></t>
-<t tx="leo.20180902120523.10">## 40723218 網際內容管理
-
-
-
-&lt;small&gt;
-Created by [40723218](https://s40723218.github.io/cad2019/content/index.html)
-&lt;/small&gt;
-
-[個人倉儲](https://github.com/s40723218/cad2019)
-
-[個人網誌](https://s40723218.github.io/cad2019/blog/index.html)
-
-[個人網站](https://s40723218.github.io/cad2019/content/index.html)
-
-</t>
 <t tx="leo.20180902120523.11">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -227,15 +212,6 @@ CMSimfly 網際內容管理
 &lt;/div&gt;
 
 </t>
-<t tx="leo.20180902120523.9">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
 <t tx="leo.20180902120538.1"></t>
 <t tx="leo.20180902120538.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
@@ -312,5 +288,29 @@ QLineEdit#editorLabel {
 }</t>
 <t tx="leo.20180902120538.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
+<t tx="leo.20191213034648.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20191213034648.2">## 40723218 網際內容管理
+
+
+
+&lt;small&gt;
+Created by [40723218](https://s40723218.github.io/cad2019/content/index.html)
+&lt;/small&gt;
+
+[個人倉儲](https://github.com/s40723218/cad2019)
+
+[個人網誌](https://s40723218.github.io/cad2019/blog/index.html)
+
+[個人網站](https://s40723218.github.io/cad2019/content/index.html)
+
+</t>
 </tnodes>
 </leo_file>
