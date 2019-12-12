@@ -166,7 +166,7 @@ init_mathjax();
 <p style="text-align: left;"><span style="color: #000000;"><span color="#000000" style="color: #000000;">新的應用程序開始流行到1997年年底，Bentley似乎有了新的發展產品的推出步伐加快。 1997年12月，本特利（Bentley）收購了雅各布（Jacobus）尚未擁有的其餘部分，雅各布（Jacobus）成為完全擁有的子公司。 PlantSpace包含兩組軟件產品，程序可用於管理工廠設計軟件的設計數據是否已創建是否使用Jacobus軟件以及用於設計加工廠的程序。 這大部分該軟件是使用該公司的JSpace面向對象軟件開發的<br/>技術。</span></span></p>
 <p style="text-align: left;"><span style="color: #000000;"><span color="#000000" style="color: #000000;">Infrasoft –賓利民用產品線的第三站自Bentley於2003年收購Infrasoft以來，這可能是一個描述的好地方該公司及其前身MOSS Systems，Ltd.。這個故事始於美國1973年成為英國王國，當時英格蘭南部的三個縣議會決定發展自己的高速公路設計軟件。這些理事會很像州的DOT美國。當時幾乎沒有可用於道路設計的軟件，特別是符合英國標準的軟件。該小組的設計軟件的第一版發佈於1975年。當時的工程解決方案，稱為MOSS的軟件包是面向批次的並同時在大型機和大型微型計算機上運行。 1983年<br/>開發商離開了政府職位，並成立了MOSS Systems，Ltd.進行開發和向政府機構和私人工程公司銷售該軟件。在幾內幾年來，英國50個縣議會中有49個使用了MOSS。<br/>Infrasoft將原始MOSS軟件更名為MX Series，並將其模塊用於道路設（MXROAD），路面更新（MXRENEW），鐵路工程（MXRAIL）和站點工程（MXSITE）。它與AutoCAD和MicroStation，儘管在1990年代後期，Infrasoft傾向於選擇與<br/>自Bentley成為GEOPAK的直接競爭對手以來的Autodesk。圖10.3顯示了使用MXROAD設計典型的道路交叉口。Bentley在2003年1月宣布，它計劃收購Infrasoft和一些幾個月後交易完成。在某種程度上，本特利可能已經採取了此舉防止Autodesk收購Infrasoft並在民用領域更有效地競爭市場。這三個民用產品線均由Gabe Norona和開發人員管理開始努力創建新的高速公路設計應用程序，最終將將軟件包的最佳特性合併到一套新的土木工程程序中。</span></span></p>
 <p><span style="color: #ff0000;"><strong><span color="#000000">week12</span></strong></span></p>
-<p><span style="color: #000080;"><strong>NX章節分析</strong></span></p>
+<p><span style="color: #000080;"><strong>1.NX章節分析與操作</strong></span></p>
 <p><span style="color: #000000;">第四章</span></p>
 <p><span style="color: #000000;">第4章-三維建模<br/>本章討論了NX 12中三維（3D）建模的基礎。我們將討論什麼是特徵，什麼是不同類型的特徵，什麼是原語以及如何建模NX 12中使用原語的功能。這將使NX 12的建模部分搶先一步並了解3D建模中使用表單特徵的知識。一旦這些功能在介紹之後，我們將重點介紹功能操作，這些功能可以應用於實體的曲面和邊緣或您創建的特徵。這些包括錐度，邊緣融合，面混合，倒角，修剪等。在解釋了功能操作之後，本章將逐步引導您一些例子。在NX 12中，要素是具有已定義父項的一類對象。功能是關聯的<br/>由一個或多個父母定義，其創建和修改的順序保留在模型，從而通過“歷史記錄”捕獲它。父對象可以是幾何對像或數字對象變量。特徵包括圖元，表面和/或實體以及某些線框對象（例如作為曲線以及相關的修剪和橋樑曲線）。例如，一些常見功能包括<br/>塊，圓柱體，圓錐體，球體，擠壓體和旋轉體。</span></p>
 <p><span style="color: #000000;">4.1功能類型<br/>表單特徵有六種類型：基元，參考特徵，掃描特徵，刪除功能，提取功能和用戶定義的功能。 與以前的版本相似，NX 12存儲插入菜單選項下的所有表單功能。 表單功能也可以在表單功能工具欄</span></p>
@@ -179,6 +179,12 @@ init_mathjax();
 <p><span style="color: #000000;">4.8標準零件庫<br/>一種更好，更快的建模標準零件（例如螺栓，螺母，銷，螺釘和墊圈）的方法<br/>正在使用標準零件庫。 例如，要建模六角螺栓，<br/>➢選擇重用庫→重用示例→標準零件→ANSI英寸→螺栓<br/>➢右鍵單擊六角頭<br/>➢點擊開源文件夾<br/>➢打開六角螺栓AI.prt</span></p>
 <p><span style="color: #000000;">4.9同步技術<br/>NX提供的重要且獨特的功能之一，除了“設計功能”和“自由格式建模是同步技術。 使用同步中可用的選項在“建模應用程序”選項卡的功能區欄中的“建模”組，用戶可以修改複雜沒有模型歷史樹並且不知道特徵關係和依賴性。 “推拉”選項可用於使用面，邊來修改3D模型和橫截面。 NX 12支持同步建模，可與以下版本的3D模型一起使用<br/>除標準外，CATIA，Pro /ENGINEER®，SolidWorks®和AutodeskInventor®格式，包括IGES，ISO / STEP和JT。</span></p>
 <p><span style="color: #000000;">4.10練習</span></p>
+<p><span style="color: #000080;"><strong>個人操作影片</strong></span></p>
+<p><span style="color: #000080;"><strong><iframe allowfullscreen="allowfullscreen" height="314" src="//www.youtube.com/embed/XxLyVKxGdWw" width="560"></iframe></strong></span></p>
+<p><span style="color: #ff0000;"><strong><span color="#000000"></span></strong></span></p>
+<p><span style="color: #000080;"><strong><span color="#000000">2.Webots與V-rep  Tutorial操作</span></strong></span></p>
+<p><span style="color: #000000;">Webots:</span></p>
+<p><span style="color: #000000;">V-rep:</span></p>
 <p><span style="color: #ff0000;"><strong><span color="#000000">week13</span></strong></span></p>
 <div class="tlid-input input">
 <div class="source-wrap">
@@ -187,7 +193,7 @@ init_mathjax();
 <div class="source-footer-wrap source-or-target-footer">
 <div class="source-footer">
 <div class="speech-wrap source-or-target-footer-button left-positioned">
-<div aria-disabled="true" aria-label="請選擇一種要啟用語音輸入的特定語言" aria-pressed="false" class="speech-button goog-toolbar-button goog-toolbar-button-disabled" data-tooltip="請選擇一種要啟用語音輸入的特定語言" data-tooltip-align="t,c" id="gt-speech" role="button"><span class="jfk-button-img"></span>1</div>
+<div aria-disabled="true" aria-label="請選擇一種要啟用語音輸入的特定語言" aria-pressed="false" class="speech-button goog-toolbar-button goog-toolbar-button-disabled" data-tooltip="請選擇一種要啟用語音輸入的特定語言" data-tooltip-align="t,c" id="gt-speech" role="button"><span class="jfk-button-img"></span></div>
 </div>
 </div>
 </div>
