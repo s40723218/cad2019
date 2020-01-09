@@ -15,38 +15,55 @@
 <v t="leo.20180902120523.3"><vh>@clean index.html</vh>
 <v t="leo.20180902120523.4"><vh>html</vh>
 <v t="leo.20180902120523.5"><vh>head</vh></v>
-<v t="leo.20180902120523.6"><vh>body</vh>
-<v t="leo.20180902120523.7"><vh>reveal div</vh>
 <v t="leo.20180902120523.8"><vh>slides div</vh>
-<v t="leo.20191213034648.1"><vh>1</vh>
+<v t="leo.20200110052747.1"><vh>1</vh>
+<v t="leo.20200110052747.2"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20200110052711.1"><vh>2</vh>
+<v t="leo.20200110052711.2"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20200110050718.1"><vh>3</vh>
+<v t="leo.20200110050718.2"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20200110050712.1"><vh>4-5</vh>
+<v t="leo.20200110050712.2"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20200110050705.1"><vh>6</vh>
+<v t="leo.20200110050705.2"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20200110050642.1"><vh>7</vh>
+<v t="leo.20200110050642.2"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20200110050407.1"><vh>8</vh>
+<v t="leo.20200110050407.2"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20191213034648.1"><vh>9</vh>
 <v t="leo.20191213034648.2"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20180902120523.11"><vh>2-5</vh>
+<v t="leo.20180902120523.11"><vh>10</vh>
 <v t="leo.20180902120523.12"><vh>投影片快捷鍵</vh></v>
 </v>
-<v t="leo.20180902120523.18"><vh>6</vh>
+<v t="leo.20180902120523.18"><vh>12</vh>
 <v t="leo.20180902120523.19"><vh>iframe 導入影片</vh></v>
 </v>
-<v t="leo.20180902120523.14"><vh>7</vh>
+<v t="leo.20180902120523.14"><vh>13</vh>
 <v t="leo.20180902120523.15"><vh>LaTeX 格式方程式</vh></v>
 </v>
-<v t="leo.20180902120523.16"><vh>8</vh>
+<v t="leo.20180902120523.16"><vh>14</vh>
 <v t="leo.20180902120523.17"><vh>引用程式碼</vh></v>
 </v>
-<v t="leo.20191213143041.1"><vh>9</vh>
+<v t="leo.20191213143041.1"><vh>15</vh>
 <v t="leo.20191213143041.2"><vh>引用程式碼</vh></v>
 </v>
-<v t="leo.20191213141811.1"><vh>10</vh>
-<v t="leo.20191213141811.2"><vh>引用程式碼</vh></v>
-</v>
-<v t="leo.20191213143217.1"><vh>12</vh>
+<v t="leo.20191213143217.1"><vh>16</vh>
 <v t="leo.20191213143217.2"><vh>引用程式碼</vh></v>
 </v>
-<v t="leo.20191213143227.1"><vh>13</vh>
+<v t="leo.20191213143227.1"><vh>17</vh>
 <v t="leo.20191213143227.2"><vh>引用程式碼</vh></v>
 </v>
 </v>
-</v>
+<v t="leo.20180902120523.6"><vh>body</vh>
+<v t="leo.20180902120523.7"><vh>reveal div</vh></v>
 </v>
 </v>
 </v>
@@ -64,17 +81,18 @@
 
 						
 </t>
-<t tx="leo.20180902120523.12">## [Week2~Week5](https://s40723218.github.io/cad2019/content/week2-5.html)
+<t tx="leo.20180902120523.12">## [Week10](https://s40723218.github.io/cad2019/content/week10-14.html)
 
-W2:建立個人倉儲cad2019及編輯網站
+1.組長創建倉儲，組員Fork倉儲
 
-W3:Solvespace編譯
+2.Soildworks/NX 各自簡單分析差異性
 
-W4:網站更新以及拍攝影片
+3.NX繪圖練習
 
-W5:solvespace繪製練習
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/MEiaITUguxA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 
-[操作影片](https://www.youtube.com/channel/UCHvDdWtq_xMJC-yMQopDUyg/videos?view_as=subscriber)</t>
+
+</t>
 <t tx="leo.20180902120523.14">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -86,13 +104,14 @@ W5:solvespace繪製練習
 
 						
 </t>
-<t tx="leo.20180902120523.15">## [Week7](https://s40723218.github.io/cad2019/content/week6-9.html)
+<t tx="leo.20180902120523.15">## [Week13](https://s40723218.github.io/cad2019/content/week10-14.html)
 
-1.Solvespace 編譯加入學號
+Week13以前的回顧影片
 
-2.Solvespace 參數繪圖驗證
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/zbnqAg080c8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 
-[操作影片](https://www.youtube.com/channel/UCHvDdWtq_xMJC-yMQopDUyg/videos?view_as=subscriber)</t>
+
+</t>
 <t tx="leo.20180902120523.16">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -104,15 +123,12 @@ W5:solvespace繪製練習
 
 						
 </t>
-<t tx="leo.20180902120523.17">## [Week8](https://s40723218.github.io/cad2019/content/week6-9.html)
+<t tx="leo.20180902120523.17">## [Week14](https://s40723218.github.io/cad2019/content/week10-14.html)
 
-1.啟用CMSiMDE中的網誌系統
+Webots Tutorial操作
 
-2.導入Webots
-
-3.ssh對Github連線
-
-[操作影片](https://www.youtube.com/channel/UCHvDdWtq_xMJC-yMQopDUyg/videos?view_as=subscriber)</t>
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/rr5AaTW-Ic8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+</t>
 <t tx="leo.20180902120523.18">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -122,15 +138,11 @@ W5:solvespace繪製練習
 
 						
 </t>
-<t tx="leo.20180902120523.19">## [Week6](https://s40723218.github.io/cad2019/content/week6-9.html)
+<t tx="leo.20180902120523.19">## [Week12](https://s40723218.github.io/cad2019/content/week10-14.html)
 
-1.繪製兩輪自走車
+NX章節分析與操作
 
-2.網際V-rep模型控制
-
-3.新增啟動予停止按鈕
-
-[操作影片](https://www.youtube.com/channel/UCHvDdWtq_xMJC-yMQopDUyg/videos?view_as=subscriber)</t>
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/XxLyVKxGdWw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20180902120523.2"></t>
 <t tx="leo.20180902120523.3">@language xml
 @tabwidth -4
@@ -301,7 +313,178 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20191213034648.2">## 40723218 網際內容管理
+<t tx="leo.20191213034648.2">## [Week9](https://s40723218.github.io/cad2019/content/week6-9.html)
+
+期中個人報告
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/U3AR6QGe_Qw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20191213143041.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20191213143041.2">## [Week15](https://s40723218.github.io/cad2019/content/week15-18.html)
+
+個人學習回報
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/78EzS423Ouw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+
+</t>
+<t tx="leo.20191213143217.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20191213143217.2">## [Week16](https://s40723218.github.io/cad2019/content/week15-18.html)
+
+越野車零組件設計繪圖查驗
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/NsDepbib9Ts" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20191213143227.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20191213143227.2">## [Week17](https://s40723218.github.io/cad2019/content/week15-18.html)
+
+1.根據分配內容翻譯
+
+2.越野車模擬
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/JXF8rkA3jLo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+
+</t>
+<t tx="leo.20200110050407.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200110050407.2">## [Week8](https://s40723218.github.io/cad2019/content/week6-9.html)
+
+1.[啟用CMSiMDE中的網誌系統](https://www.youtube.com/watch?v=sy0jgGvgSTg&amp;feature=emb_logo)
+
+
+2.[導入Webots](https://www.youtube.com/watch?v=JJIT4-wkuZo&amp;feature=emb_logo)
+
+
+3.[ssh對Github連線](https://www.youtube.com/watch?v=xJQOTr63A4Y&amp;feature=emb_logo)
+
+</t>
+<t tx="leo.20200110050642.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200110050642.2">## [Week7](https://s40723218.github.io/cad2019/content/week6-9.html)
+
+1.[Solvespace 編譯加入學號](https://www.youtube.com/watch?v=QSxKBoDxc44&amp;feature=emb_logo)
+
+2.Solvespace 參數繪圖驗證
+
+[操作影片](https://www.youtube.com/channel/UCHvDdWtq_xMJC-yMQopDUyg/videos?view_as=subscriber)</t>
+<t tx="leo.20200110050705.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200110050705.2">## [Week6](https://s40723218.github.io/cad2019/content/week6-9.html)
+
+1.[繪製兩輪自走車](https://www.youtube.com/watch?v=8S_Q1tY693s&amp;feature=emb_logo)
+
+
+2.[網際V-rep模型控制](https://www.youtube.com/watch?v=AZoZ59H147g&amp;feature=emb_logo)
+
+
+3.[新增啟動予停止按鈕](https://www.youtube.com/watch?v=auRVi34I1cc&amp;feature=emb_logo)
+
+</t>
+<t tx="leo.20200110050712.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200110050712.2">## [Week4~Week5](https://s40723218.github.io/cad2019/content/week2-5.html)
+
+W4:網站更新以及拍攝影片
+
+W5:solvespace繪製練習
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/tAhJQFpJGWo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20200110050718.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200110050718.2">## [Week3](https://s40723218.github.io/cad2019/content/week2-5.html)
+
+Solvespace編譯
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/H4jQCQV08M0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20200110052711.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200110052711.2">## [Week2](https://s40723218.github.io/cad2019/content/week2-5.html)
+
+建立個人倉儲cad2019及編輯網站
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/hALbkXB0fwU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20200110052747.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200110052747.2">## 40723218 網際內容管理
 
 
 
@@ -314,78 +497,6 @@ Created by [40723218](https://s40723218.github.io/cad2019/content/index.html)
 [個人網誌](https://s40723218.github.io/cad2019/blog/index.html)
 
 [個人網站](https://s40723218.github.io/cad2019/content/index.html)
-
-</t>
-<t tx="leo.20191213141811.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20191213141811.2">## [Week10](https://s40723218.github.io/cad2019/content/week10-14.html)
-
-1.組長創建倉儲，組員Fork倉儲
-
-2.Soildworks/NX 各自簡單分析差異性
-
-3.[NX繪圖練習](https://www.youtube.com/watch?v=MEiaITUguxA)
-
-
-</t>
-<t tx="leo.20191213143041.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20191213143041.2">## [Week9](https://s40723218.github.io/cad2019/content/week6-9.html)
-
-期中個人報告
-
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/U3AR6QGe_Qw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
-<t tx="leo.20191213143217.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20191213143217.2">## [Week12](https://s40723218.github.io/cad2019/content/week10-14.html)
-
-1.[NX章節分析與操作](https://www.youtube.com/watch?v=XxLyVKxGdWw&amp;feature=emb_title)
-
-2.[Webots Tutorial操作](https://www.youtube.com/watch?v=rr5AaTW-Ic8&amp;feature=emb_title)</t>
-<t tx="leo.20191213143227.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20191213143227.2">## [Week13](https://s40723218.github.io/cad2019/content/week10-14.html)
-
-個人簡報
-
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/zbnqAg080c8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
-
 
 </t>
 </tnodes>
