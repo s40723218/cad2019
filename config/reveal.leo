@@ -16,8 +16,7 @@
 <v t="leo.20180902120523.4"><vh>html</vh>
 <v t="leo.20180902120523.5"><vh>head</vh></v>
 <v t="leo.20200110055435.1"><vh>body</vh>
-<v t="leo.20200110055541.1"><vh>reveal div</vh></v>
-<v t="leo.20180902120523.8"><vh>slides div</vh>
+<v t="leo.20180902120523.8"><vh>reveal div</vh>
 <v t="leo.20200110052747.1"><vh>1</vh>
 <v t="leo.20200110052747.2"><vh>投影片快捷鍵</vh></v>
 </v>
@@ -64,10 +63,6 @@
 <v t="leo.20191213143227.2"><vh>引用程式碼</vh></v>
 </v>
 </v>
-<v t="leo.20200110055435.2"><vh>reveal div</vh></v>
-</v>
-<v t="leo.20180902120523.6"><vh>body</vh>
-<v t="leo.20180902120523.7"><vh>reveal div</vh></v>
 </v>
 </v>
 </v>
@@ -190,40 +185,6 @@ CMSimfly 網際內容管理
     &lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
     &lt;![endif]--&gt;
 &lt;/head&gt;
-
-</t>
-<t tx="leo.20180902120523.6">&lt;body&gt;
-@others
-&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
-&lt;script src="js/reveal.js"&gt;&lt;/script&gt;
-&lt;script&gt;
-        // More info https://github.com/hakimel/reveal.js#configuration
-        Reveal.initialize({
-            controls: true,
-            progress: true,
-            history: true,
-            center: true,
-
-            transition: 'slide', // none/fade/slide/convex/concave/zoom
-
-            // More info https://github.com/hakimel/reveal.js#dependencies
-            dependencies: [
-                { src: 'lib/js/classList.js', condition: function() { return !document.body.classList; } },
-                { src: 'plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
-                { src: 'plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
-                { src: 'plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
-                { src: 'plugin/zoom-js/zoom.js', async: true },
-                { src: 'plugin/notes/notes.js', async: true },
-                { src: 'plugin/math/math.js', async: true }
-            ]
-        });
-&lt;/script&gt;
-&lt;/body&gt;
-
-</t>
-<t tx="leo.20180902120523.7">&lt;div class="reveal"&gt;
-@others
-&lt;/div&gt;
 
 </t>
 <t tx="leo.20180902120523.8">&lt;!-- Any section element inside of this container is displayed as a slide --&gt;
@@ -529,16 +490,6 @@ Created by [40723218](https://s40723218.github.io/cad2019/content/index.html)
         });
 &lt;/script&gt;
 &lt;/body&gt;
-
-</t>
-<t tx="leo.20200110055435.2">&lt;div class="reveal"&gt;
-@others
-&lt;/div&gt;
-
-</t>
-<t tx="leo.20200110055541.1">&lt;div class="reveal"&gt;
-@others
-&lt;/div&gt;
 
 </t>
 </tnodes>
